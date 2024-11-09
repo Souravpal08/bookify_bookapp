@@ -1,3 +1,22 @@
+# Bookify|bookstore - Frontend
+
+# Introduction --->
+Bookify is a fullstack MERN project ; it's a online bookstore. This is the frontend repo of the Bookify. All the frontends code and logics is here.
+
+# Gitclone
+
+
+
+
+
+
+
+
+
+
+
+
+
 <<<<<<< HEAD
 # React + Vite
 
