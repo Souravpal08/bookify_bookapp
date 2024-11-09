@@ -1,5 +1,5 @@
 const getBaseURL = () => {
-    return "http://localhost:3000";
+    return "https://bookify-bookbackend-w8l3.vercel.app";
 };
 
 export default getBaseURL;
